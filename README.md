@@ -1,4 +1,4 @@
-# department_manager
+# certificate-service
 
 Данный учебный проект был создан чтобы узнать
 как создаются из html pdf документы.
